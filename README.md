@@ -1,2 +1,24 @@
-# Online-book-shopping-system
-Online book shopping system based ruby on rails. Administrators can show, add or remove books from the website. Shoppers can add or remove books from shopping cart, and see the total price of the books. 
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
